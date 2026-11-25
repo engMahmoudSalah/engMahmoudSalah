@@ -63,7 +63,7 @@ Highlights
 - Offline-first functionality
 React TypeScript Node.js Express Firebase Firestore Tailwind
 <p>
-<a href="https://e-commerce-store-1919.ai.studio/"><img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://fakhama.mahmodsalah.workers.dev/"><img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://lnkd.in/dZuahb8a"><img src="https://img.shields.io/badge/PROJECT_INFO-334155?style=for-the-badge"/></a>
 </p></td>
 <td width="50%" valign="top">📋 Collaborative Project Management
@@ -91,7 +91,7 @@ Highlights
 - AES-GCM encrypted messaging
 React TypeScript WebRTC Socket.IO Node.js Firebase WebCrypto
 <p>
-<a href="https://real-time-video-conferencing-collaboration.ai.studio/"><img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://meetly.mahmodsalah.workers.dev/"><img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://lnkd.in/dUC-wFsG"><img src="https://img.shields.io/badge/PROJECT_INFO-334155?style=for-the-badge"/></a>
 </p></td>
 <td width="50%" valign="top">✨ AI Summit — Event Experience
@@ -104,12 +104,16 @@ Highlights
 - Motion-enhanced responsive UI
 React TypeScript Tailwind CSS Framer Motion Lucide
 <p>
-<a href="https://event-page.ai.studio/"><img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://event-page.mahmodsalah.workers.dev/"><img src="https://img.shields.io/badge/OPEN_LIVE_DEMO-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/engMahmoudSalah/Event-Page"><img src="https://img.shields.io/badge/SOURCE_CODE-334155?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p></td>
 </tr>
 </table><div align="center">
-<a href="https://github.com/engMahmoudSalah?tab=repositories">
+<div align="center">
+
+More live systems: [German File Kit](https://german-file-kit.mahmodsalah.workers.dev/) · [SIM Services](https://sim-service.mahmodsalah.workers.dev/) · [WASLA](https://wasla.mahmodsalah.workers.dev/) · [Naturix](https://naturix.mahmodsalah.workers.dev/) · [TaqwaShield AI](https://taqwa-shield-ai.mahmodsalah.workers.dev/) · [Aqar Real Estate](https://real-state.mahmodsalah.workers.dev/) · [Quill Blog](https://blogging-platform.mahmodsalah.workers.dev/) · [Stash](https://stools.mahmodsalah.workers.dev/) · [Orbit Tasks](https://to-do-list.mahmodsalah.workers.dev/)
+
+</div><a href="https://github.com/engMahmoudSalah?tab=repositories">
   <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-Explore_more_projects-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
 </a>
 </div>◈ GitHub Analytics
